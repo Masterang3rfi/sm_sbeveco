@@ -1899,11 +1899,11 @@
 	},
 	{
 		"itemId": "36335664-6e61-4d44-9876-54f9660a8565", //glue
-		"quantity": 1,
+		"quantity": 2,
 		"craftTime": 2,
 		"ingredientList": [
 			{
-				"quantity": 2,
+				"quantity": 1,
 				"itemId": "40e8bd0d-04a0-4e95-b593-4038b54b156f"
 			}
 		]
