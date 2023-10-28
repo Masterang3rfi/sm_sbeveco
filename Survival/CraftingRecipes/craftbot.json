@@ -1895,5 +1895,20 @@
 				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
 			}
 		]
+	},
+	{
+		"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf", //component
+		"quantity": 5,
+		"craftTime": 30,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 1,
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+		]
 	}
 ]
