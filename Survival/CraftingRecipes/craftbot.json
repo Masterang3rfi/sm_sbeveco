@@ -1214,17 +1214,6 @@
 		]
 	},
 	{
-		"itemId": "36335664-6e61-4d44-9876-54f9660a8565", //glue
-		"quantity": 1,
-		"craftTime": 2,
-		"ingredientList": [
-			{
-				"quantity": 2,
-				"itemId": "40e8bd0d-04a0-4e95-b593-4038b54b156f"
-			}
-		]
-	},
-	{
 		"itemId": "869d4736-289a-4952-96cd-8a40117a2d28",
 		"extras": [
 			{
@@ -1896,18 +1885,26 @@
 			}
 		]
 	},
+	// Custom Recipes / Modified Recipes
 	{
-		"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf", //component
-		"quantity": 5,
-		"craftTime": 30,
+		"itemId": "2c90e412-9476-40d9-a440-228c888186bd", //brick light
+		"quantity": 1,
+		"craftTime": 2,
 		"ingredientList": [
 			{
-				"quantity": 10,
-				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
-			},
-			{
 				"quantity": 1,
-				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+				"itemId": "40e8bd0d-04a0-4e95-b593-4038b54b156f"
+			}
+		]
+	},
+	{
+		"itemId": "36335664-6e61-4d44-9876-54f9660a8565", //glue
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 2,
+				"itemId": "40e8bd0d-04a0-4e95-b593-4038b54b156f"
 			}
 		]
 	}
