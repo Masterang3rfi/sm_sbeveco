@@ -1919,5 +1919,16 @@
 				"itemId": "36335664-6e61-4d44-9876-54f9660a8565"
 			}
 		]
+	},
+	{
+		"itemId": "36335664-6e61-4d44-9876-54f9660a8565", //glue_test
+		"quantity": 2,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
 	}
 ]
