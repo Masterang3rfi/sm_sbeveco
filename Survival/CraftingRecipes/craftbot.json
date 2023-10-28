@@ -1887,7 +1887,7 @@
 	},
 	// Custom Recipes / Modified Recipes
 	{
-		"itemId": "36335664-6e61-4d44-9876-54f9660a8565", //circuits
+		"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3", //circuits
 		"quantity": 10,
 		"craftTime": 30,
 		"ingredientList": [
@@ -1896,16 +1896,16 @@
 				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
 			},
 			{
-				"quantity": 5,
-				"itemId": "f74c2891-79a9-45e0-982e-4896651c2e25"
-			},
-			{
-				"quantity": 1,
+				"quantity": 10,
 				"itemId": "36335664-6e61-4d44-9876-54f9660a8565"
 			},
 			{
-				"quantity": 1,
+				"quantity": 10,
 				"itemId": "f74c2891-79a9-45e0-982e-4896651c2e25"
+			},
+			{
+				"quantity": 5,
+				"itemId": "267e0c93-62e3-45ad-9470-a14035cb9ca4"
 			}
 		]
 	},
@@ -1916,11 +1916,11 @@
 		"ingredientList": [
 			{
 				"quantity": 10,
-				"itemId": "36335664-6e61-4d44-9876-54f9660a8565"
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
 			},
 			{
 				"quantity": 10,
-				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
 			},
 			{
 				"quantity": 5,
