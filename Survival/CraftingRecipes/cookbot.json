@@ -68,5 +68,25 @@
 				"itemId": "6d92d8e7-25e9-4698-b83d-a64dc97978c8"
 			}
 		]
+	},
+	// Custom Recipes / Modified Recipes
+	{
+		"itemId": "cb7305b2-d8b5-4302-aff3-6cdd9212ca64",
+		"quantity": 3,
+		"craftTime": 24,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "2c4a2633-153a-4800-ba3d-2ac0d993b9c8"
+			},
+			{
+				"quantity": 1,
+				"itemId": "fb0f128c-e607-4c52-9c25-f44dfd2dd95e"
+			},
+			{
+				"quantity": 5,
+				"itemId": "869d4736-289a-4952-96cd-8a40117a2d28"
+			}
+		]
 	}
 ]
