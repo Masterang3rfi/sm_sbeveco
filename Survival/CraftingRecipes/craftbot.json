@@ -1887,9 +1887,55 @@
 	},
 	// Custom Recipes / Modified Recipes
 	{
+		"itemId": "36335664-6e61-4d44-9876-54f9660a8565", //circuits
+		"quantity": 10,
+		"craftTime": 30,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 5,
+				"itemId": "f74c2891-79a9-45e0-982e-4896651c2e25"
+			},
+			{
+				"quantity": 1,
+				"itemId": "36335664-6e61-4d44-9876-54f9660a8565"
+			},
+			{
+				"quantity": 1,
+				"itemId": "f74c2891-79a9-45e0-982e-4896651c2e25"
+			}
+		]
+	},
+	{
+		"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf", //components
+		"quantity": 5,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				"itemId": "36335664-6e61-4d44-9876-54f9660a8565"
+			},
+			{
+				"quantity": 10,
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 5,
+				"itemId": "36335664-6e61-4d44-9876-54f9660a8565"
+			},
+			{
+				"quantity": 5,
+				"itemId": "f74c2891-79a9-45e0-982e-4896651c2e25"
+			}
+		]
+	},
+	{
 		"itemId": "36335664-6e61-4d44-9876-54f9660a8565", //glue
 		"quantity": 2,
-		"craftTime": 2,
+		"craftTime": 10,
 		"ingredientList": [
 			{
 				"quantity": 3,
@@ -1899,19 +1945,23 @@
 	},
 	{
 		"itemId": "36335664-6e61-4d44-9876-54f9660a8565", //glue_renewable
-		"quantity": 2,
-		"craftTime": 2,
+		"quantity": 1,
+		"craftTime": 5,
 		"ingredientList": [
 			{
-				"quantity": 1,
-				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+				"quantity": 5,
+				"itemId": "f74c2891-79a9-45e0-982e-4896651c2e25"
+			},
+			{
+				"quantity": 5,
+				"itemId": "1147e59d-6940-42b4-840b-07f05054f5e0"
 			}
 		]
 	},
 	{
 		"itemId": "2c90e412-9476-40d9-a440-228c888186bd", //brick  light
 		"quantity": 1,
-		"craftTime": 22,
+		"craftTime": 20,
 		"ingredientList": [
 			{
 				"quantity": 1,
