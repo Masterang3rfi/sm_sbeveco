@@ -1908,7 +1908,7 @@
 	{
 		"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf", //components
 		"quantity": 10,
-		"craftTime": 2,
+		"craftTime": 100,
 		"ingredientList": [
 			{
 				"quantity": 20,
