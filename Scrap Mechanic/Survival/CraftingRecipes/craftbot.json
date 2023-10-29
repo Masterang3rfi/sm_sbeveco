@@ -1956,8 +1956,8 @@
 	},
 	{
 		"itemId": "910a7f2c-52b0-46eb-8873-ad13255539af", //battery
-		"quantity": 5,
-		"craftTime": 7,
+		"quantity": 10,
+		"craftTime": 14,
 		"ingredientList": [
 			{
 				"quantity": 10,
