@@ -1,0 +1,13 @@
+{
+	"toolList": [
+		{
+			"name": "Fant_Mod_Base",
+			"uuid": "a37ad687-30e4-405a-89b5-c12b2f3a2f02",
+			"previewRenderable": "$GAME_DATA/Character/Char_Tools/char_spudgun_preview.rend",
+			"previewRotation": [ 1, 0, 0, 0, 0, -1, 0, 1, 0 ],
+			"script": { "file":  "$CONTENT_DATA/Scripts/Fant_Mod_Base.lua", "class": "Fant_Mod_Base" },
+			"autoTool": true
+		}	
+		
+	]
+}

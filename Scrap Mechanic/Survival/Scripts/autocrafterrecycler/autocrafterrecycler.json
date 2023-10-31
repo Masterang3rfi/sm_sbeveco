@@ -1,0 +1,1188 @@
+[
+	//jnt_suspensionsport_02
+	{
+		"itemId": "aae686a2-0eb3-43b3-b998-def282de79e9",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "67da25c9-3825-41f6-9724-4546a11cb2a5"
+			},
+			{
+				"quantity": 1,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//jnt_suspensionsport_03
+	{
+		"itemId": "d0aa2676-5266-432a-bf7e-3887e6ddedd5",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "aae686a2-0eb3-43b3-b998-def282de79e9"
+			},
+			{
+				"quantity": 2,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//jnt_suspensionsport_04
+	{
+		"itemId": "d9adddcc-972d-4726-a376-67f950b99a44",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "d0aa2676-5266-432a-bf7e-3887e6ddedd5"
+			},
+			{
+				"quantity": 4,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//jnt_suspensionsport_05
+	{
+		"itemId": "52855106-a95c-4427-9970-3f227109b66d",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "d9adddcc-972d-4726-a376-67f950b99a44"
+			},
+			{
+				"quantity": 8,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	
+	
+	//jnt_suspensionoffroad_02
+	{
+		"itemId": "00284190-1484-4286-a198-b2ddef768c2e",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "f3cfef9d-faef-4be8-9283-476eb99614d7"
+			},
+			{
+				"quantity": 1,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//jnt_suspensionoffroad_03
+	{
+		"itemId": "a9658eaf-0dd8-46a6-8cac-be6978f19b79",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "00284190-1484-4286-a198-b2ddef768c2e"
+			},
+			{
+				"quantity": 2,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//jnt_suspensionoffroad_04
+	{
+		"itemId": "4c3f6a7c-45c6-4ed8-bf13-c247c3db6b81",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "a9658eaf-0dd8-46a6-8cac-be6978f19b79"
+			},
+			{
+				"quantity": 4,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//jnt_suspensionoffroad_05
+	{
+		"itemId": "73f838db-783e-4a41-bc0f-9008967780f3",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "4c3f6a7c-45c6-4ed8-bf13-c247c3db6b81"
+			},
+			{
+				"quantity": 8,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	
+	//obj_interactive_driverseat_02
+	{
+		"itemId": "efbf45f8-62ec-4541-9eb1-d529966f6a29",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "77c2687c-2e13-4df8-996a-96fb26d75ee0"
+			},
+			{
+				"quantity": 1,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//obj_interactive_driverseat_03
+	{
+		"itemId": "c3ef3008-9367-4ab7-813a-24195d63e5a3",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "efbf45f8-62ec-4541-9eb1-d529966f6a29"
+			},
+			{
+				"quantity": 2,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//obj_interactive_driverseat_04
+	{
+		"itemId": "d30dcd12-ec39-43b9-a115-44c08e1b9091",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "c3ef3008-9367-4ab7-813a-24195d63e5a3"
+			},
+			{
+				"quantity": 3,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//obj_interactive_driverseat_05
+	{
+		"itemId": "ffa3a47e-fc0d-4977-802f-bd15683bbe5c",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "d30dcd12-ec39-43b9-a115-44c08e1b9091"
+			},
+			{
+				"quantity": 5,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	
+	
+	
+	//obj_interactive_seat_02
+	{
+		"itemId": "2b9c6e87-1b75-4a57-8979-74d9f95668ba",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "3b972f2f-30c7-4a5e-a100-5e257e62295d"
+			},
+			{
+				"quantity": 1,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//obj_interactive_seat_03
+	{
+		"itemId": "ebe2782e-a4f5-4d91-83cc-db110179393b",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "2b9c6e87-1b75-4a57-8979-74d9f95668ba"
+			},
+			{
+				"quantity": 2,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//obj_interactive_seat_04
+	{
+		"itemId": "46465697-ed36-4720-ba8a-08c568b4e36c",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "ebe2782e-a4f5-4d91-83cc-db110179393b"
+			},
+			{
+				"quantity": 3,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	
+	//obj_interactive_seat_05
+	{
+		"itemId": "703ca746-d802-4e76-b443-4881e83afb73",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "46465697-ed36-4720-ba8a-08c568b4e36c"
+			},
+			{
+				"quantity": 5,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	
+	
+	//obj_interactive_driversaddle_02
+	{
+		"itemId": "bb2ed406-f0d3-4fd6-b3f9-7caadfa8e4e4",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "7d601a5a-796d-4cae-be88-b47479d38d11"
+			},
+			{
+				"quantity": 1,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	
+	//obj_interactive_driversaddle_03
+	{
+		"itemId": "6953b17e-0a38-4107-8c56-5ee97e68bee3",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "bb2ed406-f0d3-4fd6-b3f9-7caadfa8e4e4"
+			},
+			{
+				"quantity": 2,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//obj_interactive_driversaddle_04
+	{
+		"itemId": "41960868-6245-47b5-97c4-f446e199812f",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "6953b17e-0a38-4107-8c56-5ee97e68bee3"
+			},
+			{
+				"quantity": 3,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//obj_interactive_driversaddle_05
+	{
+		"itemId": "9dd1ccea-1e44-430d-b706-3ff45416583e",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "41960868-6245-47b5-97c4-f446e199812f"
+			},
+			{
+				"quantity": 5,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	
+	//obj_interactive_saddle_02
+	{
+		"itemId": "c39b3537-d9b2-45f8-b2ea-0e9002c896d9",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "2d3016f7-febe-416e-93bc-41d80ca3910d"
+			},
+			{
+				"quantity": 1,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//obj_interactive_saddle_03
+	{
+		"itemId": "797e07a3-6d56-4b74-949b-9492c7946e0d",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "c39b3537-d9b2-45f8-b2ea-0e9002c896d9"
+			},
+			{
+				"quantity": 1,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//obj_interactive_saddle_04
+	{
+		"itemId": "7516f5b8-9a15-4606-92bb-ea9a96a16594",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "797e07a3-6d56-4b74-949b-9492c7946e0d"
+			},
+			{
+				"quantity": 1,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//obj_interactive_saddle_05
+	{
+		"itemId": "42f70341-207d-4e9d-b8ed-37962603a926",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "7516f5b8-9a15-4606-92bb-ea9a96a16594"
+			},
+			{
+				"quantity": 1,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	
+	//obj_interactive_gasengine_02
+	{
+		"itemId": "33d01ddd-f32b-4a9a-87d6-efb6710b389c",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "1bfccc0a-828f-475c-882c-87d5a96054c9"
+			},
+			{
+				"quantity": 4,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//obj_interactive_gasengine_03
+	{
+		"itemId": "470b9a92-ed94-4ef2-b1ea-b45f47ef0982",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "33d01ddd-f32b-4a9a-87d6-efb6710b389c"
+			},
+			{
+				"quantity": 6,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	
+	//obj_interactive_gasengine_04
+	{
+		"itemId": "bfcaac1a-5a7f-4fba-9980-1159617a7212",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "470b9a92-ed94-4ef2-b1ea-b45f47ef0982"
+			},
+			{
+				"quantity": 8,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//obj_interactive_gasengine_05
+	{
+		"itemId": "3091926a-9340-46d9-83d6-4fd7c68ad950",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "bfcaac1a-5a7f-4fba-9980-1159617a7212"
+			},
+			{
+				"quantity": 10,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	
+	//obj_interactive_electricengine_02
+	{
+		"itemId": "0c9cc5bb-af2f-4023-b8d8-cd7d52a60efe",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "5e5d231e-405e-4f45-9bd0-b3557dbb42eb"
+			},
+			{
+				"quantity": 4,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//obj_interactive_electricengine_03
+	{
+		"itemId": "56cea967-a685-494d-85ef-3aa121a0c193",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "0c9cc5bb-af2f-4023-b8d8-cd7d52a60efe"
+			},
+			{
+				"quantity": 6,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//obj_interactive_electricengine_04
+	{
+		"itemId": "5e57e0f7-e87c-4269-b274-146fe40e1b44",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "56cea967-a685-494d-85ef-3aa121a0c193"
+			},
+			{
+				"quantity": 8,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	
+	//obj_interactive_electricengine_05
+	{
+		"itemId": "22f3e797-82f5-4819-a085-c3cc28ec9025",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "5e57e0f7-e87c-4269-b274-146fe40e1b44"
+			},
+			{
+				"quantity": 10,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	
+	//obj_interactive_thruster_02
+	{
+		"itemId": "9fc793b2-250b-40ab-bcb3-97cf97c7b481",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "df8528ed-15ad-4a39-a33a-698880684001"
+			},
+			{
+				"quantity": 10,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//obj_interactive_thruster_03
+	{
+		"itemId": "4c1cc8de-7af1-4f8e-a5c4-c583460af9e5",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "9fc793b2-250b-40ab-bcb3-97cf97c7b481"
+			},
+			{
+				"quantity": 10,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//obj_interactive_thruster_04
+	{
+		"itemId": "e6db321c-6f98-47f6-9f7f-4e6794a62cb8",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "4c1cc8de-7af1-4f8e-a5c4-c583460af9e5"
+			},
+			{
+				"quantity": 10,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//obj_interactive_thruster_05
+	{
+		"itemId": "a736ffdf-22c1-40f2-8e40-988cab7c0559",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "e6db321c-6f98-47f6-9f7f-4e6794a62cb8"
+			},
+			{
+				"quantity": 10,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	
+	//obj_interactive_controller_02
+	{
+		"itemId": "1872d83a-d1a1-4cb7-ad46-9e4468d2548c",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "598d865c-324c-4129-9c57-21a6abd2cb2e"
+			},
+			{
+				"quantity": 2,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//obj_interactive_controller_03
+	{
+		"itemId": "6bb84152-c4d7-4644-bc37-a3becd79298d",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "1872d83a-d1a1-4cb7-ad46-9e4468d2548c"
+			},
+			{
+				"quantity": 3,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//obj_interactive_controller_04
+	{
+		"itemId": "2354cd24-3dd3-4db5-84ab-df64c32d2c72",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "6bb84152-c4d7-4644-bc37-a3becd79298d"
+			},
+			{
+				"quantity": 5,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//obj_interactive_controller_05
+	{
+		"itemId": "a092359d-5cea-484d-a274-470d9a567632",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "2354cd24-3dd3-4db5-84ab-df64c32d2c72"
+			},
+			{
+				"quantity": 10,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	
+	
+	//obj_interactive_sensor_02
+	{
+		"itemId": "cf46678b-c947-4267-ba85-f66930f5faa4",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "1d4793af-cb66-4628-804a-9d7404712643"
+			},
+			{
+				"quantity": 1,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//obj_interactive_sensor_03
+	{
+		"itemId": "90fc3603-3544-4254-97ef-ea6723510961",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "cf46678b-c947-4267-ba85-f66930f5faa4"
+			},
+			{
+				"quantity": 1,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//obj_interactive_sensor_04
+	{
+		"itemId": "de018bc6-1db5-492c-bfec-045e63f9d64b",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "90fc3603-3544-4254-97ef-ea6723510961"
+			},
+			{
+				"quantity": 1,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//obj_interactive_sensor_05
+	{
+		"itemId": "20dcd41c-0a11-4668-9b00-97f278ce21af",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "de018bc6-1db5-492c-bfec-045e63f9d64b"
+			},
+			{
+				"quantity": 3,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//jnt_interactive_piston_02
+	{
+		"itemId": "31f14f52-f4d8-4b9f-9d6e-7412497c9284",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "8c741785-5eae-4c48-9f99-d62bf522a83f"
+			},
+			{
+				"quantity": 2,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//jnt_interactive_piston_03
+	{
+		"itemId": "46396518-8c29-4da9-81bb-a020f4baf5b2",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "31f14f52-f4d8-4b9f-9d6e-7412497c9284"
+			},
+			{
+				"quantity": 2,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//jnt_interactive_piston_04
+	{
+		"itemId": "7324219e-2b19-4098-baa3-9876984ead08",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "46396518-8c29-4da9-81bb-a020f4baf5b2"
+			},
+			{
+				"quantity": 2,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	
+	//jnt_interactive_piston_05
+	{
+		"itemId": "2f004fdf-bfb0-46f3-a7ac-7711100bee0c",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "7324219e-2b19-4098-baa3-9876984ead08"
+			},
+			{
+				"quantity": 2,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	
+	
+	
+	,
+	
+	//obj_tool_bucket_water
+	{
+		"itemId": "103fc4e6-7e57-465e-a86d-983343415877",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "798c2c81-1f8e-481b-8c32-b71b5dc5511a"
+			},
+			{
+				"quantity": 1,
+				"itemId": "869d4736-289a-4952-96cd-8a40117a2d28"
+			}
+		]
+	}
+	
+	,
+	
+	//obj_tool_bucket_chemical
+	{
+		"itemId": "2e792123-4a10-4cc6-b9ef-c5a518655cb4",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "798c2c81-1f8e-481b-8c32-b71b5dc5511a"
+			},
+			{
+				"quantity": 1,
+				"itemId": "f74c2891-79a9-45e0-982e-4896651c2e25"
+			}
+		]
+	}
+	
+	
+	,
+	
+	//obj_outfitpackage_common
+	{
+		"itemId": "63695efd-0862-49f2-ace6-4d1758147fae",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				"itemId": "3440440b-d362-4473-aa03-b7c41e1fe7ad"
+			}
+		]
+	}
+	,
+	
+	//obj_outfitpackage_rare
+	{
+		"itemId": "27a221b1-9809-4df1-901a-caafe119c9b6",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				"itemId": "3440440b-d362-4473-aa03-b7c41e1fe7ad"
+			}
+		]
+	}
+	,
+	
+	//obj_outfitpackage_epic
+	{
+		"itemId": "7ab0cac7-b055-4283-b0bc-f85dd4d0416b",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 20,
+				"itemId": "3440440b-d362-4473-aa03-b7c41e1fe7ad"
+			}
+		]
+	}
+	
+	,
+	//obj_survivalobject_keycard
+	{
+		"itemId": "e49b210a-0d46-4f06-bcd8-08862379d156",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 15,
+				"itemId": "4a9210de-1160-4896-94a0-c8c19653ce8a"
+			}
+			,
+			{
+				"quantity": 5,
+				"itemId": "4e9e7544-78ec-4ae9-b925-1665cccd8cfb"
+			}
+			,
+			{
+				"quantity": 10,
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3" // obj_resource_circuitboard
+			}
+			,
+			{
+				"quantity": 5,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf" // obj_consumable_component
+			}
+		]
+	}
+	
+	
+	
+	
+	,
+	
+	//obj_craftbot_craftbot5 -> obj_craftbot_craftbot4
+	{
+		"itemId": "4fcb4cb8-7623-11ea-bc55-0242ac130003",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "c69a7855-d915-4784-af81-d0a8849e458f"
+			},
+			{
+				"quantity": 20,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf" // obj_consumable_component
+			}
+		]
+	}
+	
+	
+	,
+	
+	//obj_craftbot_craftbot4 -> obj_craftbot_craftbot3
+	{
+		"itemId": "c69a7855-d915-4784-af81-d0a8849e458f",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "1c83675f-7c77-4cbb-875b-79d4bd46100d"
+			},
+			{
+				"quantity": 5,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf" // obj_consumable_component
+			}
+		]
+	}
+	
+	,
+	
+	//obj_craftbot_craftbot3 -> obj_craftbot_craftbot2
+	{
+		"itemId": "1c83675f-7c77-4cbb-875b-79d4bd46100d",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "b7571f6f-9d53-44ba-99d2-3b4f05e6fd0f"
+			},
+			{
+				"quantity": 5,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf" // obj_consumable_component
+			}
+		]
+	}
+	
+	,
+	
+	//obj_craftbot_craftbot2 -> obj_craftbot_craftbot1
+	{
+		"itemId": "b7571f6f-9d53-44ba-99d2-3b4f05e6fd0f",
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "b63c6440-dfc2-4da7-acdb-3c385080b2e4"
+			},
+			{
+				"quantity": 5,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf" // obj_consumable_component
+			}
+		]
+	}
+
+	,
+	{
+		"itemId": "fd9076f6-a8fc-428a-9c82-936fd4ffc599",  // obj_fant_upgradeModule_1
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "e49b210a-0d46-4f06-bcd8-08862379d156" // obj_survivalobject_keycard
+			}
+			,
+			{
+				"quantity": 50,
+				"itemId": "061b5d4b-0a6a-4212-b0ae-9e9681f1cbfb" // blk_wood3
+			}
+			,
+			{
+				"quantity": 1,
+				"itemId": "a092359d-5cea-484d-a274-470d9a567632" // obj_interactive_controller_05
+			}
+			,
+			{
+				"quantity": 20,
+				"itemId": "910a7f2c-52b0-46eb-8873-ad13255539af" // obj_consumable_battery
+			}
+		]
+	}
+	,
+	{
+		"itemId": "cf0a1ff2-cbbd-4ac0-acbe-71754d9cd115",  // obj_fant_upgradeModule_2
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "e49b210a-0d46-4f06-bcd8-08862379d156" // obj_survivalobject_keycard
+			}
+			,
+			{
+				"quantity": 50,
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46" // blk_metal3
+			}
+			,
+			{
+				"quantity": 1,
+				"itemId": "a092359d-5cea-484d-a274-470d9a567632" // obj_interactive_controller_05
+			}
+			,
+			{
+				"quantity": 20,
+				"itemId": "910a7f2c-52b0-46eb-8873-ad13255539af" // obj_consumable_battery
+			}
+		]
+	}
+	,
+	{
+		"itemId": "df5b16c2-83d8-4e62-b7bb-b88d78762cf6",  // obj_fant_upgradeModule_3
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "e49b210a-0d46-4f06-bcd8-08862379d156" // obj_survivalobject_keycard
+			}
+			,
+			{
+				"quantity": 50,
+				"itemId": "e281599c-2343-4c86-886e-b2c1444e8810" // blk_concrete3
+			}
+			,
+			{
+				"quantity": 1,
+				"itemId": "a092359d-5cea-484d-a274-470d9a567632" // obj_interactive_controller_05
+			}
+			,
+			{
+				"quantity": 20,
+				"itemId": "910a7f2c-52b0-46eb-8873-ad13255539af" // obj_consumable_battery
+			}
+		]
+	}
+	
+	,
+	{
+		"itemId": "e83a22c5-8783-413f-a199-46bc30ca8dac",  // obj_interactive_builderguideblock
+		"quantity": 1,
+		"craftTime": 1,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "e49b210a-0d46-4f06-bcd8-08862379d156" // obj_survivalobject_keycard
+			}
+			,
+			{
+				"quantity": 50,
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46" // blk_metal3
+			}
+			,
+			{
+				"quantity": 15,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf" // obj_consumable_component
+			}
+			,
+			{
+				"quantity": 20,
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3" // obj_resource_circuitboard
+			}
+		]
+	}
+	
+
+]
