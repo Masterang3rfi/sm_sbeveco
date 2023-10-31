@@ -1,0 +1,1195 @@
+{
+   "partList" : [
+		{
+			"uuid": "6245eb8d-3f76-4c37-b6b3-a12d94cd7b5b",
+			"name": "obj_interactive_mcp",
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList": [
+							{
+								"textureList": [
+									"$CONTENT_DATA/Objects/00fant/textures/fant_mcp_dif.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_mcp_asg.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_mcp_nor.tga"
+								],
+								"material": "PoseAnimDifAsgNor"
+							}
+						],
+						"mesh": "$CONTENT_DATA/Objects/00fant/mesh/multiconnectionpoints/fant_mcp_off.obj",
+						"pose0": "$CONTENT_DATA/Objects/00fant/mesh/multiconnectionpoints/fant_mcp_on.obj"
+					}
+				]
+			},
+			"color": "df7f01",
+			"box": {
+				"x": 3,
+				"y": 3,
+				"z": 3
+			},
+			"scripted": {
+				"filename": "$SURVIVAL_DATA/Scripts/game/interactables/VacuumPipe.lua",
+				"classname": "VacuumPipe"
+			},
+			"rotationSet": "PropFullMinusNegY",
+			"physicsMaterial": "Mechanical",
+			"ratings": {
+				"density": 2,
+				"durability": 5,
+				"friction": 1,
+				"buoyancy": 0
+			},
+			"flammable": false,
+			"stackSize": 256,
+			"density": 250.0,
+			"pipe": {
+				"openings": [
+					{
+						"side": "-X",
+						"x": -1.7,
+						"y": 0,
+						"z": 0
+					},
+					{
+						"side": "+X",
+						"x": 1.7,
+						"y": 0,
+						"z": 0
+					},
+					{
+						"side": "+Y",
+						"x": 0,
+						"y": 1.7,
+						"z": 0
+					},
+					{
+						"side": "-Y",
+						"x": 0,
+						"y": -1.7,
+						"z": 0
+					},
+					{
+						"side": "+Z",
+						"x": 0,
+						"y": 0,
+						"z": 1.7
+					},
+					{
+						"side": "-Z",
+						"x": 0,
+						"y": 0,
+						"z": -1.7
+					}
+				]
+			}
+		}
+		,
+		{
+			"uuid": "f5f74fc0-f109-47bd-834d-93397361f036",
+			"name": "obj_interactive_mcp2",
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList": [
+							{
+								"textureList": [
+									"$CONTENT_DATA/Objects/00fant/textures/fant_mcp_dif.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_mcp_asg.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_mcp_nor.tga"
+								],
+								"material": "PoseAnimDifAsgNor"
+							}
+						],
+						"mesh": "$CONTENT_DATA/Objects/00fant/mesh/multiconnectionpoints/fant_mcp_offset_1.obj",
+						"pose0": "$CONTENT_DATA/Objects/00fant/mesh/multiconnectionpoints/fant_mcp_offset_1.obj"
+					}
+				]
+			},
+			"color": "df7f01",
+			"box": {
+				"x": 4,
+				"y": 1,
+				"z": 3
+			},
+			"scripted": {
+				"filename": "$SURVIVAL_DATA/Scripts/game/interactables/VacuumPipe.lua",
+				"classname": "VacuumPipe"
+			},
+			"rotationSet": "PropFullMinusNegY",
+			"physicsMaterial": "Mechanical",
+			"ratings": {
+				"density": 2,
+				"durability": 5,
+				"friction": 1,
+				"buoyancy": 0
+			},
+			"flammable": false,
+			"stackSize": 256,
+			"density": 250.0,
+			"pipe": {
+				"openings": [
+					{
+						"side": "-Y",
+						"x": 0.5,
+						"y": -0.5,
+						"z": 0
+					},
+					{
+						"side": "+Y",
+						"x": -0.5,
+						"y": 0.5,
+						"z": 0
+					}					
+				]
+			}
+		}
+		,
+		{
+			"uuid": "d5222258-e3e8-4ae3-b8b4-2583e82d6ae0",
+			"name": "obj_interactive_mcp3",
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList": [
+							{
+								"textureList": [
+									"$CONTENT_DATA/Objects/00fant/textures/fant_mcp_dif.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_mcp_asg.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_mcp_nor.tga"
+								],
+								"material": "PoseAnimDifAsgNor"
+							}
+						],
+						"mesh": "$CONTENT_DATA/Objects/00fant/mesh/multiconnectionpoints/fant_mcp_offset_2.obj",
+						"pose0": "$CONTENT_DATA/Objects/00fant/mesh/multiconnectionpoints/fant_mcp_offset_2.obj"
+					}
+				]
+			},
+			"color": "df7f01",
+			"box": {
+				"x": 5,
+				"y": 1,
+				"z": 3
+			},
+			"scripted": {
+				"filename": "$SURVIVAL_DATA/Scripts/game/interactables/VacuumPipe.lua",
+				"classname": "VacuumPipe"
+			},
+			"rotationSet": "PropFullMinusNegY",
+			"physicsMaterial": "Mechanical",
+			"ratings": {
+				"density": 2,
+				"durability": 5,
+				"friction": 1,
+				"buoyancy": 0
+			},
+			"flammable": false,
+			"stackSize": 256,
+			"density": 250.0,
+			"pipe": {
+				"openings": [
+					{
+						"side": "-Y",
+						"x": 1.0,
+						"y": -0.5,
+						"z": 0
+					},
+					{
+						"side": "+Y",
+						"x": -1.0,
+						"y": 0.5,
+						"z": 0
+					}
+				]
+			}
+		}
+		,
+		
+		{
+			"uuid": "3c8a1fc4-1cf6-480a-b33d-1974c715b159",
+			"name": "obj_interactive_fant_pumpPipe",
+			"renderable": {
+				"lodList": [
+					{						
+						"subMeshMap": {
+							"electricEngine_03": {
+								"textureList": [
+									"$SURVIVAL_DATA/Objects/Textures/interactive/obj_interactive_electricengine_03_dif.tga",
+									"$SURVIVAL_DATA/Objects/Textures/interactive/obj_interactive_electricengine_03_asg.tga",
+									"$SURVIVAL_DATA/Objects/Textures/interactive/obj_interactive_electricengine_03_nor.tga"
+								],
+								"material": "DifAsgNor" 
+							},
+							"pipe": {
+								"textureList": [
+									"$SURVIVAL_DATA/Objects/Textures/interactive/obj_interactive_pipe_dif.tga",
+									"$SURVIVAL_DATA/Objects/Textures/interactive/obj_interactive_pipe_asg.tga",
+									"$SURVIVAL_DATA/Objects/Textures/interactive/obj_interactive_pipe_nor.tga"
+								],
+								"material": "DifAsgNor"
+							}			
+						},
+						
+						"mesh": "$CONTENT_DATA/Objects/00fant/mesh/fant_pumpPipe/obj_interactive_fant_pumpPipe.fbx"
+					}
+				]
+			},		
+			"color": "ff0000",
+			"box": {
+				"x": 3,
+				"y": 3,
+				"z": 3
+			},		
+			"scripted": {
+				"filename": "$CONTENT_DATA/Scripts/fant_mod_scripts/fant_pumpPipe.lua",
+				"classname": "Fant_PumpPipe",
+				"steering": {}
+			},
+			"rotationSet": "PropFull",
+			"physicsMaterial": "Mechanical",
+			"ratings": {
+				"density": 2,
+				"durability": 6,
+				"friction": 4,
+				"buoyancy": 4
+			},
+			"flammable": false,
+			"stackSize": 256,
+			"density": 250.0,
+			"pipe": {
+				"openings": [
+					{
+						"side": "-Z",
+						"x": 0,
+						"y": 0,
+						"z": -1.5
+					},
+					{
+						"side": "+Z",
+						"x": 0,
+						"y": 0,
+						"z": 1.5
+					}					
+				]
+			}
+		}
+		
+		,
+		{
+			"uuid": "edc811c8-9f43-4e34-b621-d2a43cc1497a",
+			"name": "obj_interactive_fant_chest",
+			
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshMap": {
+							"fant_color_palette": {
+								"textureList": [
+									"$CONTENT_DATA/Objects/00fant/textures/fant_color_palette_dif.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_color_palette_asg.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_color_palette_nor.tga"
+								],
+								"material": "DifAsgNor"
+							}	
+							,
+							"fant_autocrafter_display_dif": {
+								"material": "UVAnimDifAsgNor",
+								"textureList": [
+									"$CONTENT_DATA/Objects/00fant/textures/container/fant_container_display_dif.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/container/fant_container_display_asg.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/container/fant_container_display_nor.tga"
+								],
+								"custom": {
+									"uv0": {
+										"v": 0.048828125,
+										"u": 1
+									}
+								}						
+							}	
+							,
+							"chest": {
+								"material": "DifAsgNor",
+								"textureList": [
+									"$SURVIVAL_DATA/Objects/Textures/interactive/obj_interactive_chest_dif.tga",
+									"$SURVIVAL_DATA/Objects/Textures/interactive/obj_interactive_chest_asg.tga",
+									"$SURVIVAL_DATA/Objects/Textures/interactive/obj_interactive_chest_nor.tga"
+								]
+							},
+							"connectionpoint": {
+								"material": "DifAsgNor",
+								"textureList": [
+									"$SURVIVAL_DATA/Objects/Textures/containers/obj_interactive_container_connectorpoint_dif.tga",
+									"$SURVIVAL_DATA/Objects/Textures/containers/obj_interactive_container_connectorpoint_asg.tga",
+									"$SURVIVAL_DATA/Objects/Textures/containers/obj_interactive_container_connectorpoint_nor.tga"
+								]
+							},
+							"chest_extras": {
+								"material": "DifAsgNor",
+								"textureList": [
+									"$SURVIVAL_DATA/Objects/Textures/interactive/obj_interactive_smallchest_extras_dif.tga",
+									"$SURVIVAL_DATA/Objects/Textures/interactive/obj_interactive_smallchest_extras_asg.tga",
+									"$SURVIVAL_DATA/Objects/Textures/interactive/obj_interactive_smallchest_extras_nor.tga"
+								]
+							},
+							"small_chest": {
+								"material": "DifAsgNor",
+								"textureList": [
+									"$SURVIVAL_DATA/Objects/Textures/interactive/obj_interactive_smallchest_dif.tga",
+									"$SURVIVAL_DATA/Objects/Textures/interactive/obj_interactive_smallchest_asg.tga",
+									"$SURVIVAL_DATA/Objects/Textures/interactive/obj_interactive_smallchest_nor.tga"
+								]
+							}
+						},
+						"mesh": "$CONTENT_DATA/Objects/00fant/mesh/fant_smart_chest/fant_smart_chest.fbx"
+					}
+				]
+			},			
+			"color": "df7f01",
+			"hull": {
+				"x": 3,
+				"y": 3,
+				"z": 3,
+				"col": "$CONTENT_DATA/Objects/00fant/mesh/fant_smartchest_collider.obj"
+			},
+			"scripted": {
+				"filename": "$CONTENT_DATA/Scripts/fant_mod_scripts/fant_chest.lua",
+				"classname": "Fant_Chest"
+			},
+			"rotationSet": "PropFull",
+			"physicsMaterial": "Mechanical",
+			"ratings": {
+				"density": 6,
+				"durability": 6,
+				"friction": 4,
+				"buoyancy": 0
+			},
+			"flammable": false,
+			"density": 250.0,
+			"stackSize": 256,
+			"pipe": {
+				"openings": [
+					{
+						"side": "-Z",
+						"x": 0,
+						"y": 0,
+						"z": -1.7
+					},
+					{
+						"side": "Z",
+						"x": 0,
+						"y": 0,
+						"z": 1.7
+					}
+				]
+			}
+		}
+		
+		,
+		{
+			"uuid": "61cd8c04-7ff0-4bdc-9c08-4c44526d9ba2",
+			"name": "obj_interactive_fant_large_container",
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshMap": {
+							"fant_color_palette_dif": {
+								"textureList": [
+									"$CONTENT_DATA/Objects/00fant/textures/fant_color_palette_dif.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_color_palette_asg.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_color_palette_nor.tga"
+								],
+								"material": "DifAsgNor"
+							}																														
+							,
+							"fant_container_display_dif": {
+								"material": "UVAnimDifAsgNor",
+								"textureList": [
+									"$CONTENT_DATA/Objects/00fant/textures/container/fant_container_display_dif.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/container/fant_container_display_asg.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/container/fant_container_display_nor.tga"
+								],
+								"custom": {
+									"uv0": {
+										"v": 0.048828125,
+										"u": 1
+									}
+								}						
+							},
+							"connectorpoint": {
+								"material": "DifAsgNor",
+								"textureList": [
+									"$SURVIVAL_DATA/Objects/Textures/containers/obj_interactive_container_connectorpoint_dif.tga",
+									"$SURVIVAL_DATA/Objects/Textures/containers/obj_interactive_container_connectorpoint_asg.tga",
+									"$SURVIVAL_DATA/Objects/Textures/containers/obj_interactive_container_connectorpoint_nor.tga"
+								]
+							},
+							"container": {
+								"material": "DifAsgNor",
+								"textureList": [
+									"$SURVIVAL_DATA/Terrain/Textures/Building/env_building_container_dif.tga",
+									"$SURVIVAL_DATA/Terrain/Textures/Building/env_building_container_asg.tga",
+									"$SURVIVAL_DATA/Terrain/Textures/Building/env_building_container_nor.tga"
+								]
+							}
+						},
+						"mesh": "$CONTENT_DATA/Objects/00fant/mesh/fant_large_container/fant_large_container.fbx"
+					}
+				]
+			},
+			"color": "df7f01",
+			"box": {
+				"x": 5,
+				"y": 5,
+				"z": 11
+			},
+			"scripted": {
+				"filename": "$CONTENT_DATA/Scripts/fant_mod_scripts/fant_large_container.lua",
+				"classname": "Fant_Large_Container"
+			},
+			"rotationSet": "PropFull",
+			"physicsMaterial": "Mechanical",
+			"ratings": {
+				"density": 6,
+				"durability": 8,
+				"friction": 6,
+				"buoyancy": 1
+			},
+			"flammable": false,
+			"density": 250.0,
+			"stackSize": 256,
+			"pipe": {
+				"openings": [
+					{
+						"side": "-Z",
+						"x": 0,
+						"y": 0,
+						"z": -5.5
+					}
+					,
+					{
+						"side": "Z",
+						"x": 0,
+						"y": 0,
+						"z": 5.5
+					}
+					,
+					{
+						"side": "-X",
+						"x": -2.5,
+						"y": 0,
+						"z": 0
+					}
+					,
+					{
+						"side": "X",
+						"x": 2.5,
+						"y": 0,
+						"z": 0
+					}
+					,
+					{
+						"side": "-Y",
+						"x": 0,
+						"y": -2.5,
+						"z": 0
+					}
+					,
+					{
+						"side": "Y",
+						"x": 0,
+						"y": 2.5,
+						"z": 0
+					}
+				]
+			}
+		}
+		
+		,
+		{
+			"uuid": "f231a858-7b08-494a-977a-dd1db8288834",
+			"name": "obj_interactive_fant_teleport_pipe_in",
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList": [
+							{
+								"textureList": [
+									"$CONTENT_DATA/Objects/00fant/textures/fant_chest_dif.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_chest_asg.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_chest_nor.tga"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$CONTENT_DATA/Objects/00fant/mesh/teleport_item_pipes/fant_teleport_pipe_in.obj"
+					}
+				]
+			},
+			"color": "df7f01",
+			"box": {
+				"x": 3,
+				"y": 3,
+				"z": 3
+			},
+			"scripted": {
+				"filename": "$CONTENT_DATA/Scripts/fant_mod_scripts/fant_teleport_item_pipe.lua",
+				"classname": "Fant_Teleport_Item_Pipe"
+			},
+			"rotationSet": "PropFull",
+			"physicsMaterial": "Mechanical",
+			"ratings": {
+				"density": 6,
+				"durability": 6,
+				"friction": 4,
+				"buoyancy": 0
+			},
+			"flammable": false,
+			"density": 250.0,
+			"stackSize": 256,
+			"pipe": {
+				"openings": [
+					{
+						"side": "+Z",
+						"x": 0,
+						"y": 0,
+						"z": 1.5
+					}
+				]
+			}
+		}
+		,
+		{
+			"uuid": "545a675e-cece-4120-a6d3-574cafc14062",
+			"name": "obj_interactive_fant_teleport_pipe_out",
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList": [
+							{
+								"textureList": [
+									"$CONTENT_DATA/Objects/00fant/textures/fant_chest_dif.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_chest_asg.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_chest_nor.tga"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$CONTENT_DATA/Objects/00fant/mesh/teleport_item_pipes/fant_teleport_pipe_out.obj"
+					}
+				]
+			},
+			"color": "df7f01",
+			"box": {
+				"x": 3,
+				"y": 3,
+				"z": 3
+			},
+			"scripted": {
+				"filename": "$CONTENT_DATA/Scripts/fant_mod_scripts/fant_teleport_item_pipe.lua",
+				"classname": "Fant_Teleport_Item_Pipe"
+			},
+			"rotationSet": "PropFull",
+			"physicsMaterial": "Mechanical",
+			"ratings": {
+				"density": 6,
+				"durability": 6,
+				"friction": 4,
+				"buoyancy": 0
+			},
+			"flammable": false,
+			"density": 250.0,
+			"stackSize": 256,
+			"pipe": {
+				"openings": [
+					{
+						"side": "+Z",
+						"x": 0,
+						"y": 0,
+						"z": 1.5
+					}
+				]
+			}
+		}
+		
+		,
+		{
+			"uuid": "3f9b5a2e-f0f7-41c7-be13-66fa7875fb32",
+			"name": "obj_interactive_fant_pumpjack_out",
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshMap": {
+							"refinery": {
+								"material": "DifAsgNor",
+								"textureList": [
+									"$CONTENT_DATA/Objects/00fant/textures/fant_autominer/char_refinery_dif.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_autominer/char_refinery_asg.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_autominer/char_refinery_nor.tga"
+								]
+							},
+							"connectionpoint": {
+								"material": "DifAsgNor",
+								"textureList": [
+									"$SURVIVAL_DATA/Objects/Textures/containers/obj_interactive_container_connectorpoint_dif.tga",
+									"$SURVIVAL_DATA/Objects/Textures/containers/obj_interactive_container_connectorpoint_asg.tga",
+									"$SURVIVAL_DATA/Objects/Textures/containers/obj_interactive_container_connectorpoint_nor.tga"
+								]
+							}
+						},
+						"mesh": "$CONTENT_DATA/Objects/00fant/mesh/fant_pumpjack/fant_pumpjack_out.fbx"
+					}
+				]
+			},					
+			"color": "df7f01",
+			"box": {
+				"x": 3,
+				"y": 3,
+				"z": 3
+			},
+			"scripted": {
+				"filename": "$CONTENT_DATA/Scripts/fant_mod_scripts/fant_pumpjack.lua",
+				"classname": "Fant_Pumpjack"
+			},
+			"rotationSet": "PropFull",
+			"physicsMaterial": "Mechanical",
+			"ratings": {
+				"density": 6,
+				"durability": 8,
+				"friction": 6,
+				"buoyancy": 1
+			},
+			"flammable": false,
+			"density": 250.0,
+			"stackSize": 256,
+			"pipe": {
+				"openings": [
+					{
+						"side": "-X",
+						"x": -1.5,
+						"y": 0,
+						"z": 0
+					}
+				]
+			}
+		}
+		
+		,
+		{
+			"uuid": "ebbede1d-f221-4ead-93fb-c3087728947b",
+			"name": "obj_interactive_fant_pumpjack",
+			"color": "df7f01",
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshMap": {
+							"metalbar_mat": {
+								"material": "SkelAnimDifAsgNor",
+								"textureList": [
+									"$SURVIVAL_DATA/Terrain/Textures/Ruin/env_ruin_metal_dif.tga",
+									"$SURVIVAL_DATA/Terrain/Textures/Ruin/env_ruin_metal_asg.tga",
+									"$SURVIVAL_DATA/Terrain/Textures/Ruin/env_ruin_metal_nor.tga"
+								],
+								"color": "808080"
+							},
+							"refinery": {
+								"material": "SkelAnimDifAsgNor",
+								"textureList": [
+									"$CONTENT_DATA/Objects/00fant/textures/fant_autominer/char_refinery_dif.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_autominer/char_refinery_asg.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_autominer/char_refinery_nor.tga"
+								]
+							},
+							"farmbot": {
+								"material": "SkelAnimDifAsgNor",
+								"textureList": [
+									"$CONTENT_DATA/Objects/00fant/textures/fant_autominer/char_farmbot_dif.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_autominer/char_farmbot_asg.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_autominer/char_farmbot_nor.tga"
+								]
+							},
+							"shinymetal": {
+								"material": "SkelAnimDifAsgNor",
+								"textureList": [
+									"$SURVIVAL_DATA/Terrain/Textures/Building/env_building_shinymetal_dif.tga",
+									"$SURVIVAL_DATA/Terrain/Textures/Building/env_building_shinymetal_asg.tga",
+									"$SURVIVAL_DATA/Terrain/Textures/Building/env_building_shinymetal_nor.tga"
+								]
+							},
+							"shinymetal2": {
+								"material": "SkelAnimDifAsgNor",
+								"textureList": [
+									"$SURVIVAL_DATA/Terrain/Textures/Building/env_building_shinymetal_dif.tga",
+									"$SURVIVAL_DATA/Terrain/Textures/Building/env_building_shinymetal_asg.tga",
+									"$SURVIVAL_DATA/Terrain/Textures/Building/env_building_shinymetal_nor.tga"
+								]
+							}
+						},
+						"mesh": "$CONTENT_DATA/Objects/00fant/mesh/fant_pumpjack/fant_pumpjack_pumping.fbx",
+						"animationList": [
+							{ "name": "pumping",  "file" : "$CONTENT_DATA/Objects/00fant/mesh/fant_pumpjack/fant_pumpjack_pumping.fbx", "looping" : false }
+						]
+					}
+				]
+			},
+			"box": {
+				"x": 5,
+				"y": 11,
+				"z": 9
+			},
+			"scripted": {
+				"filename": "$CONTENT_DATA/Scripts/fant_mod_scripts/fant_pumpjack.lua",
+				"classname": "Fant_Pumpjack"
+			},
+			"rotationSet": "PropFull",
+			"physicsMaterial": "Mechanical",
+			"ratings": {
+				"density": 6,
+				"durability": 8,
+				"friction": 6,
+				"buoyancy": 1
+			},
+			"flammable": false,
+			"density": 250.0,
+			"stackSize": 256
+		}
+		
+		
+		,
+		{
+			"uuid": "b28f6f34-7d83-4703-82d2-756c11d8c50e",
+			"name": "obj_interactive_fant_trashcan",
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshMap": {
+							"connectionpoint": {
+								"material": "DifAsgNor",
+								"textureList": [
+									"$SURVIVAL_DATA/Objects/Textures/containers/obj_interactive_container_connectorpoint_dif.tga",
+									"$SURVIVAL_DATA/Objects/Textures/containers/obj_interactive_container_connectorpoint_asg.tga",
+									"$SURVIVAL_DATA/Objects/Textures/containers/obj_interactive_container_connectorpoint_nor.tga"
+								]
+							}
+							,
+							"fant_color_palette_dif": {
+								"textureList": [
+									"$CONTENT_DATA/Objects/00fant/textures/fant_color_palette_dif.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_color_palette_asg.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_color_palette_nor.tga"
+								],
+								"material": "DifAsgNor"
+							}
+						},
+						"mesh": "$CONTENT_DATA/Objects/00fant/mesh/fant_trashcan/fant_trashcan.fbx"
+					}
+				]
+			},					
+			"color": "df7f01",
+			"box": {
+				"x": 3,
+				"y": 3,
+				"z": 3
+			},
+			"scripted": {
+				"filename": "$CONTENT_DATA/Scripts/fant_mod_scripts/fant_trashcan.lua",
+				"classname": "Fant_Trashcan"
+			},
+			"rotationSet": "PropFull",
+			"physicsMaterial": "Mechanical",
+			"ratings": {
+				"density": 6,
+				"durability": 8,
+				"friction": 6,
+				"buoyancy": 1
+			},
+			"flammable": false,
+			"density": 250.0,
+			"stackSize": 256,
+			"pipe": {
+				"openings": [
+					{
+						"side": "-Y",
+						"x": 0,
+						"y": -1.55,
+						"z": 0
+					}
+				]
+			}
+		}
+		
+		,
+		{
+			"uuid": "a2885448-4b11-40ec-8c40-2e465ea31e0e",
+			"name": "obj_interactive_fant_recycler",
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshMap": {
+							"fant_color_palette_dif": {
+								"textureList": [
+									"$CONTENT_DATA/Objects/00fant/textures/fant_color_palette_dif.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_color_palette_asg.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_color_palette_nor.tga"
+								],
+								"material": "DifAsgNor"
+							}																							
+							,
+							"fant_autocrafter_display_dif": {
+								"material": "UVAnimDifAsgNor",
+								"textureList": [
+									"$CONTENT_DATA/Objects/00fant/textures/container/fant_container_display_dif.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/container/fant_container_display_asg.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/container/fant_container_display_nor.tga"
+								],
+								"custom": {
+									"uv0": {
+										"v": 0.048828125,
+										"u": 1
+									}
+								}						
+							}	
+							,
+							"connectionpoint": {
+								"material": "DifAsgNor",
+								"textureList": [
+									"$CONTENT_DATA/Objects/00fant/textures/fant_autocrafter/obj_interactive_container_connectorpoint_dif.tga", 
+									"$CONTENT_DATA/Objects/00fant/textures/fant_autocrafter/obj_interactive_container_connectorpoint_asg.tga", 
+									"$CONTENT_DATA/Objects/00fant/textures/fant_autocrafter/obj_interactive_container_connectorpoint_nor.tga"
+								]
+							}
+						},
+						"mesh": "$CONTENT_DATA/Objects/00fant/mesh/fant_recycler/fant_recycler.fbx"
+					}
+				]
+			},
+			"color": "df7f01",
+			"box": {
+				"x": 5,
+				"y": 5,
+				"z": 5
+			},
+			"scripted": {
+				"filename": "$CONTENT_DATA/Scripts/fant_mod_scripts/fant_recycler.lua",
+				"classname": "Fant_Recycler"
+			},
+			"rotationSet": "PropFull",
+			"physicsMaterial": "Mechanical",
+			"ratings": {
+				"density": 6,
+				"durability": 6,
+				"friction": 4,
+				"buoyancy": 0
+			},
+			"flammable": false,
+			"density": 250.0,
+			"stackSize": 256,
+			"pipe": {
+				"openings": [
+					{
+						"side": "-Z",
+						"x": 0,
+						"y": 0,
+						"z": -2.7
+					}
+					,
+					{
+						"side": "+Z",
+						"x": 0,
+						"y": 0,
+						"z": 2.7
+					}
+					,
+					{
+						"side": "-Y",
+						"x": 0,
+						"y": -2.7,
+						"z": 0
+					}
+					,
+					{
+						"side": "+Y",
+						"x": 0,
+						"y": 2.7,
+						"z": 0
+					}
+					,
+					{
+						"side": "-X",
+						"x": -2.7,
+						"y": 0,
+						"z": 0
+					}
+					,
+					{
+						"side": "+X",
+						"x": 2.7,
+						"y": 0,
+						"z": 0
+					}
+				]
+			}
+		}
+		
+		,
+		{
+			"uuid": "69e9c5d0-b99d-4074-87e7-4fc5f786965c",
+			"name": "obj_interactive_fant_thin_chest",
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshMap": {
+							"fant_color_palette_dif": {
+								"textureList": [
+									"$CONTENT_DATA/Objects/00fant/textures/fant_color_palette_dif.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_color_palette_asg.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_color_palette_nor.tga"
+								],
+								"material": "DifAsgNor"
+							}	
+							,
+							"fant_autocrafter_display_dif": {
+								"material": "UVAnimDifAsgNor",
+								"textureList": [
+									"$CONTENT_DATA/Objects/00fant/textures/container/fant_container_display_dif.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/container/fant_container_display_asg.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/container/fant_container_display_nor.tga"
+								],
+								"custom": {
+									"uv0": {
+										"v": 0.048828125,
+										"u": 1
+									}
+								}						
+							}	
+							,						
+							"connectionpoint": {
+								"material": "DifAsgNor",
+								"textureList": [
+									"$SURVIVAL_DATA/Objects/Textures/containers/obj_interactive_container_connectorpoint_dif.tga",
+									"$SURVIVAL_DATA/Objects/Textures/containers/obj_interactive_container_connectorpoint_asg.tga",
+									"$SURVIVAL_DATA/Objects/Textures/containers/obj_interactive_container_connectorpoint_nor.tga"
+								]
+							}
+						},
+						"mesh": "$CONTENT_DATA/Objects/00fant/mesh/container/fant_thin_chest.fbx"
+					}
+				]
+			},			
+			"color": "df7f01",
+			"hull": {
+				"x": 3,
+				"y": 1,
+				"z": 3,
+				"col": "$CONTENT_DATA/Objects/00fant/mesh/fant_smartchest_collider.obj"
+			},
+			"scripted": {
+				"filename": "$CONTENT_DATA/Scripts/fant_mod_scripts/fant_thin_chest.lua",
+				"classname": "Fant_Thin_Chest"
+			},
+			"rotationSet": "PropFull",
+			"physicsMaterial": "Mechanical",
+			"ratings": {
+				"density": 6,
+				"durability": 6,
+				"friction": 4,
+				"buoyancy": 0
+			},
+			"flammable": false,
+			"density": 250.0,
+			"stackSize": 256,
+			"pipe": {
+				"openings": [
+					{
+						"side": "-Y",
+						"x": 0,
+						"y": -0.7,
+						"z": 0
+					},
+					{
+						"side": "Y",
+						"x": 0,
+						"y": 0.7,
+						"z": 0
+					}
+				]
+			}
+		}
+		
+		
+		
+		,
+		{
+			"uuid": "13774651-effe-455e-9c1a-759b76822a4c",
+			"name": "obj_interactive_fant_fluidconnector",
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList": [
+							{
+								"textureList": [
+									"$CONTENT_DATA/Objects/00fant/textures/fant_chest_dif.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_chest_asg.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_chest_nor.tga"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$CONTENT_DATA/Objects/00fant/mesh/fluidconnector/fant_fluidconnector.obj"
+					}
+				]
+			},
+			"color": "df7f01",
+			"box": {
+				"x": 3,
+				"y": 3,
+				"z": 2
+			},
+			"scripted": {
+				"filename": "$CONTENT_DATA/Scripts/fant_mod_scripts/fant_fluidconnector.lua",
+				"classname": "Fant_FluidConnector"
+			},
+			"rotationSet": "PropFull",
+			"physicsMaterial": "Mechanical",
+			"ratings": {
+				"density": 6,
+				"durability": 6,
+				"friction": 4,
+				"buoyancy": 0
+			},
+			"flammable": false,
+			"density": 250.0,
+			"stackSize": 256,
+			"pipe": {
+				"openings": [
+					{
+						"side": "-Z",
+						"x": 0,
+						"y": 0,
+						"z": -1.0
+					}
+				]
+			}
+		}
+		
+		,
+		{
+			"uuid": "6b1cab58-c103-48cd-8cb3-314cc57cf959",
+			"name": "obj_interactive_fant_vpump_3_point",
+			
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshMap": {
+							"pump": {
+								"textureList": [
+									"$CONTENT_DATA/Objects/00fant/textures/fant_vpump/obj_interactive_pump_dif.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_vpump/obj_interactive_pump_asg.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_vpump/obj_interactive_pump_nor.tga"
+								],
+								"material": "PoseUVAnimDifAsgNor",
+								"custom": {
+									"uv0": {
+										"v": 1,
+										"u": 0.1666666666666667
+									}
+								}
+							}																													
+						},
+						"mesh": "$CONTENT_DATA/Objects/00fant/mesh/fant_vpump/fant_vpump_3_point_off.fbx",
+						"pose0": "$CONTENT_DATA/Objects/00fant/mesh/fant_vpump/fant_vpump_3_point_on.fbx"
+					}
+				]
+			},
+			
+			"color": "df7f01",
+			"hull": {
+				"x": 3,
+				"y": 4,
+				"z": 3,
+				"col": "$SURVIVAL_DATA/Objects/Collision/obj_pneumatic_pump.obj"
+			},
+			"scripted": {
+				"filename": "$CONTENT_DATA/Scripts/fant_mod_scripts/Vacuum.lua",
+				"classname": "Vacuum"
+			},
+			"rotationSet": "PropNegYmZX",
+			"sticky": "+Y+Z-Z+X-X",
+			"physicsMaterial": "Metal",
+			"ratings": {
+				"density": 5,
+				"durability": 7,
+				"friction": 5,
+				"buoyancy": 7
+			},
+			"flammable": false,
+			"pipe": {
+				"openings": [
+					{
+						"side": "+Y",
+						"x": 0,
+						"y": 2.0,
+						"z": 0
+					},
+					{
+						"side": "+X",
+						"x": 1.5,
+						"y": 0.5,
+						"z": 0
+					},
+					{
+						"side": "-X",
+						"x": -1.5,
+						"y": 0.5,
+						"z": 0
+					}
+				]
+			}
+		}
+		
+		
+		,
+		{
+			"uuid": "643a991a-2958-4882-abb8-68e0a223a7ab",
+			"name": "obj_interactive_fant_vacuumpump_controler",
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList": [
+							{
+								"textureList": [
+									"$CONTENT_DATA/Objects/00fant/textures/fant_color_palette_dif.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_color_palette_asg.tga",
+									"$CONTENT_DATA/Objects/00fant/textures/fant_color_palette_nor.tga"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$CONTENT_DATA/Objects/00fant/mesh/fant_vpump_controler/fant_vpump_controler.fbx"
+					}
+				]
+			},		
+			"color": "df7f01",
+			"box": {
+				"x": 1,
+				"y": 3,
+				"z": 3
+			},
+			"scripted": {
+				"filename": "$CONTENT_DATA/Scripts/fant_mod_scripts/fant_vpump_controler.lua",
+				"classname": "Fant_Vpump_Controler"
+			},
+			"rotationSet": "PropFull",
+			"physicsMaterial": "Mechanical",
+			"ratings": {
+				"density": 1,
+				"durability": 5,
+				"friction": 3,
+				"buoyancy": 2
+			},
+			"flammable": false,
+			"stackSize": 256,
+			"density": 250.0
+		}
+		
+   ]
+}

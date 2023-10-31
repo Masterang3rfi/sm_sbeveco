@@ -1,0 +1,13 @@
+# Blender MTL File: 'fant_multiconnectionpoint.blend'
+# Material Count: 1
+
+newmtl connectionpoint
+Ns 182.167876
+Ka 1.000000 1.000000 1.000000
+Kd 0.073500 0.073500 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Games\\Steam\\SteamApps\\common\\Scrap Mechanic\\Survival\\Objects\\Textures\\containers\\obj_interactive_container_connectorpoint_dif.TGA
