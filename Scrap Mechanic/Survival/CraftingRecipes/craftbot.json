@@ -1840,6 +1840,10 @@
 		"ingredientList": [
 			{
 				"quantity": 1,
+				"itemId": "220b201e-aa40-4995-96c8-e6007af160de"
+			},
+			{
+				"quantity": 1,
 				"itemId": "3440440b-d362-4473-aa03-b7c41e1fe7ad"
 			}
 		]
@@ -2011,4 +2015,417 @@
 			}
 		]
 	}
+	,
+	{
+		"itemId": "6245eb8d-3f76-4c37-b6b3-a12d94cd7b5b", // obj_interactive_mcp
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 2,
+				"itemId": "fcf0958c-084d-4854-9b1b-b06594b4262a"
+			},
+			{
+				"quantity": 1,
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 1,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	{
+		"itemId": "f5f74fc0-f109-47bd-834d-93397361f036", // obj_interactive_mcp2
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 2,
+				"itemId": "fcf0958c-084d-4854-9b1b-b06594b4262a"
+			},
+			{
+				"quantity": 1,
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 1,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	{
+		"itemId": "d5222258-e3e8-4ae3-b8b4-2583e82d6ae0", // obj_interactive_mcp3
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 2,
+				"itemId": "fcf0958c-084d-4854-9b1b-b06594b4262a"
+			},
+			{
+				"quantity": 1,
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 1,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	{
+		"itemId": "3c8a1fc4-1cf6-480a-b33d-1974c715b159", // obj_interactive_fant_pumpPipe
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 20,
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f" // blk_metal2
+			},
+			{
+				"quantity": 5,
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3" // obj_resource_circuitboard
+			},
+			{
+				"quantity": 2,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf" // obj_consumable_component
+			},
+			{
+				"quantity": 5,
+				"itemId": "910a7f2c-52b0-46eb-8873-ad13255539af" // obj_consumable_battery
+			}
+		]
+	}
+	
+	,
+	{
+		"itemId": "643a991a-2958-4882-abb8-68e0a223a7ab", // obj_interactive_fant_vacuumpump_controler
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 15,
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f" // blk_metal2
+			},
+			{
+				"quantity": 3,
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3" // obj_resource_circuitboard
+			},
+			{
+				"quantity": 2,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf" // obj_consumable_component
+			}
+		]
+	}
+	,
+	{
+		"itemId": "edc811c8-9f43-4e34-b621-d2a43cc1497a", // obj_interactive_fant_chest
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 40,
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 3,
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 2,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			},
+			{
+				"quantity": 2,
+				"itemId": "36335664-6e61-4d44-9876-54f9660a8565"
+			}
+		]
+	}
+	,
+	{
+		"itemId": "61cd8c04-7ff0-4bdc-9c08-4c44526d9ba2", // obj_interactive_fant_large_container
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 80,
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 8,
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 1,
+				"itemId": "e49b210a-0d46-4f06-bcd8-08862379d156"
+			},
+			{
+				"quantity": 6,
+				"itemId": "36335664-6e61-4d44-9876-54f9660a8565"
+			}
+		]
+	}
+	,
+	{
+		"itemId": "f231a858-7b08-494a-977a-dd1db8288834", // obj_interactive_fant_teleport_pipe_in
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 50,
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46" // blk_metal3
+			}
+			,
+			{
+				"quantity": 1,
+				"itemId": "97f449b6-c948-448b-b8b3-4448e3f6b956" // obj_pneumatic_pump
+			}
+			,
+			{
+				"quantity": 100,
+				"itemId": "5f41af56-df4c-4837-9b3c-10781335757f" // blk_glass
+			}
+			,
+			{
+				"quantity": 1,
+				"itemId": "028ac28e-d8ad-464a-9b5a-fcd9e7c16aee" // obj_interactive_fant_wireless
+			}
+		]
+	}
+	,
+	{
+		"itemId": "545a675e-cece-4120-a6d3-574cafc14062", // obj_interactive_fant_teleport_pipe_out
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 50,
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46" // blk_metal3
+			}
+			,
+			{
+				"quantity": 1,
+				"itemId": "97f449b6-c948-448b-b8b3-4448e3f6b956" // obj_pneumatic_pump
+			}
+			,
+			{
+				"quantity": 100,
+				"itemId": "5f41af56-df4c-4837-9b3c-10781335757f" // blk_glass
+			}
+			,
+			{
+				"quantity": 1,
+				"itemId": "028ac28e-d8ad-464a-9b5a-fcd9e7c16aee" // obj_interactive_fant_wireless
+			}
+		]
+	}
+	
+	,
+	{
+		"itemId": "ebbede1d-f221-4ead-93fb-c3087728947b", // obj_interactive_fant_pumpjack
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 100,
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"    // blk_metal2
+			},
+			{
+				"quantity": 20,
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3" // obj_resource_circuitboard 
+			},
+			{
+				"quantity": 1,
+				"itemId": "f231a858-7b08-494a-977a-dd1db8288834" // obj_interactive_fant_teleport_pipe_in
+			},
+			{
+				"quantity": 1,
+				"itemId": "e49b210a-0d46-4f06-bcd8-08862379d156" // obj_survivalobject_keycard
+			}
+		]
+	}
+	
+	
+
+	,
+	{
+		"itemId": "3f9b5a2e-f0f7-41c7-be13-66fa7875fb32", // obj_interactive_fant_pumpjack_out
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 40,
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"    // blk_metal2
+			},
+			{
+				"quantity": 10,
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3" // obj_resource_circuitboard 
+			},
+			{
+				"quantity": 1,
+				"itemId": "545a675e-cece-4120-a6d3-574cafc14062" // obj_interactive_fant_teleport_pipe_out
+			},
+			{
+				"quantity": 1,
+				"itemId": "e49b210a-0d46-4f06-bcd8-08862379d156" // obj_survivalobject_keycard
+			}
+		]
+	}
+	,
+	{
+		"itemId": "b28f6f34-7d83-4703-82d2-756c11d8c50e", // obj_interactive_fant_trashcan
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 5,
+				"itemId": "fcf0958c-084d-4854-9b1b-b06594b4262a"
+			},
+			{
+				"quantity": 2,
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 2,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	{
+		"itemId": "a2885448-4b11-40ec-8c40-2e465ea31e0e",  // obj_interactive_fant_recycler
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 30,
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
+			},
+			{
+				"quantity": 10,
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 10,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+			
+		]
+	}
+	,
+	{
+		"itemId": "69e9c5d0-b99d-4074-87e7-4fc5f786965c", // obj_interactive_fant_thin_chest
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 15,
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 1,
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 1,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			},
+			{
+				"quantity": 1,
+				"itemId": "36335664-6e61-4d44-9876-54f9660a8565"
+			}
+		]
+	}
+	,
+	{
+		"itemId": "13774651-effe-455e-9c1a-759b76822a4c", // obj_interactive_fant_fluidconnector
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "ea10d1af-b97a-46fb-8895-dfd1becb53bb" //obj_container_water
+			}
+			,
+			{
+				"quantity": 1,
+				"itemId": "97f449b6-c948-448b-b8b3-4448e3f6b956" // obj_pneumatic_pump
+			}
+			,
+			{
+				"quantity": 5,
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3" // obj_resource_circuitboard
+			}
+			,
+			{
+				"quantity": 5,
+				"itemId": "36335664-6e61-4d44-9876-54f9660a8565" // obj_consumable_glue
+			}
+		]
+	}
+	,
+	{
+		"itemId": "6b1cab58-c103-48cd-8cb3-314cc57cf959",  // obj_interactive_fant_vpump_3_point
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 20,
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 10,
+				"itemId": "fcf0958c-084d-4854-9b1b-b06594b4262a"
+			},
+			{
+				"quantity": 5,
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 5,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	}
+	,
+	{
+		"itemId": "643a991a-2958-4882-abb8-68e0a223a7ab", // obj_interactive_fant_vacuumpump_controler
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 15,
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f" // blk_metal2
+			},
+			{
+				"quantity": 3,
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3" // obj_resource_circuitboard
+			},
+			{
+				"quantity": 2,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf" // obj_consumable_component
+			}
+		]
+	}
+	
 ]
+
