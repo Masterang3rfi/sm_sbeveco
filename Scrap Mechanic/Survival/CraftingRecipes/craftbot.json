@@ -1993,6 +1993,93 @@
 		]
 	},
 	{
+		"itemId": "2af00456-b22e-4743-b338-a91934aba7c5", //cookbot
+		"quantity": 1,
+		"craftTime": 237,
+		"ingredientList": [
+			{
+				"quantity": 50,
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 10,
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 10,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	},
+	{
+		"itemId": "b63c6440-dfc2-4da7-acdb-3c385080b2e4", //craftbot
+		"quantity": 1,
+		"craftTime": 237,
+		"ingredientList": [
+			{
+				"quantity": 90,
+				"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39"
+			},
+			{
+				"quantity": 10,
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 10,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	},
+	{
+		"itemId": "5cb15c93-4fa9-48da-9974-2e95ca6c9e1c", //refinebot
+		"quantity": 1,
+		"craftTime": 237,
+		"ingredientList": [
+			{
+				"quantity": 60,
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 5,
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 5,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	},
+	{
+		"itemId": "a930a42f-63ed-4fb0-933e-56ce8a889cc5", //resource_collector
+		"quantity": 1,
+		"craftTime": 117,
+		"ingredientList": [
+			{
+				"quantity": 30,
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		"itemId": "5cb15c93-4fa9-48da-9974-2e95ca6c9e1c", //dressbot
+		"quantity": 1,
+		"craftTime": 237,
+		"ingredientList": [
+			{
+				"quantity": 50,
+				"itemId": "061b5d4b-0a6a-4212-b0ae-9e9681f1cbfb"
+			},
+			{
+				"quantity": 10,
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 10,
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	},
+	{
 		"itemId": "cb7305b2-d8b5-4302-aff3-6cdd9212ca64", // sunshake
 		"quantity": 3,
 		"craftTime": 30,
