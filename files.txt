@@ -1,2 +1,0 @@
-Scrap Mechanic/Survival/CraftingRecipes/craftbot.json
-Scrap Mechanic/Survival/CraftingRecipes/refinery.json
