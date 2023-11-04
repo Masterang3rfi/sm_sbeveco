@@ -2067,6 +2067,17 @@
 		]
 	},
 	{
+		"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf", //key_to_component
+		"quantity": 10,
+		"craftTime": 22,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "e49b210a-0d46-4f06-bcd8-08862379d156"
+			}
+		]
+	},
+	{
 		"itemId": "36335664-6e61-4d44-9876-54f9660a8565", //glue
 		"quantity": 2,
 		"craftTime": 10,
