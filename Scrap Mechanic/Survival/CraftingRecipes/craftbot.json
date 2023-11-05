@@ -1857,6 +1857,17 @@
 		]
 	},
 	{
+		"itemId": "628b2d61-5ceb-43e9-8334-a4135566df7a", //plastic
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				"itemId": "1147e59d-6940-42b4-840b-07f05054f5e0"
+			}
+		]
+	},
+	{
 		"itemId": "b4fa180c-2111-4339-b6fd-aed900b57093", //square_net
 		"quantity": 10,
 		"craftTime": 7,
