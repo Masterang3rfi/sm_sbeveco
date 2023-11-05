@@ -1846,13 +1846,13 @@
 		]
 	},
 	{
-		"itemId": "febce8a6-6c05-4e5d-803b-dfa930286944", //insulation
+		"itemId": "9be6047c-3d44-44db-b4b9-9bcf8a9aab20", //insulation
 		"quantity": 10,
 		"craftTime": 7,
 		"ingredientList": [
 			{
 				"quantity": 1,
-				"itemId": "9be6047c-3d44-44db-b4b9-9bcf8a9aab20"
+				"itemId": "3440440b-d362-4473-aa03-b7c41e1fe7ad"
 			}
 		]
 	},
