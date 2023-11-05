@@ -2181,6 +2181,17 @@
 		]
 	},
 	{
+		"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7", //paint
+		"quantity": 5,
+		"craftTime": 57,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				"itemId": "f74c2891-79a9-45e0-982e-4896651c2e25"
+			}
+		]
+	},
+	{
 		"itemId": "cb7305b2-d8b5-4302-aff3-6cdd9212ca64", // sunshake
 		"quantity": 3,
 		"craftTime": 30,
