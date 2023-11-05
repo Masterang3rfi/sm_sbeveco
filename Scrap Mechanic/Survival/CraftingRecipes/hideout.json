@@ -196,5 +196,43 @@
 				"itemId": "8d601982-4608-4d5e-bb9e-e4041486f7c7"
 			}
 		]
+	},
+	// Custom Recipes / Modified Recipes
+	{
+		"itemId": "df953d9c-234f-4ac2-af5e-f0490b223e71", //wood
+		"quantity": 256,
+		"craftTime": 0,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "99477093-e819-4199-b62a-fda6143aae89"
+			}
+		]
+	},
+	{
+		"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", //metal
+		"quantity": 256,
+		"craftTime": 0,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "99477093-e819-4199-b62a-fda6143aae89"
+			},
+			{
+				"quantity": 1,
+				"itemId": "bc69cb3b-7e0c-4c36-805d-f8d89fcfced3"
+			}
+		]
+	},
+	{
+		"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac", //stone
+		"quantity": 256,
+		"craftTime": 0,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "bc69cb3b-7e0c-4c36-805d-f8d89fcfced3"
+			}
+		]
 	}
 ]
